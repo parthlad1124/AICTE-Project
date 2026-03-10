@@ -60,7 +60,7 @@ This project uses **Microsoft Power BI** to transform raw supply chain data into
 
 #  Dashboard Preview
 
-![Dashboard Screenshot](Screenshot 2026-03-10 092731.png)
+![Dashboard Screenshot](dashboard.png)
 
 *(Add your screenshot image in the repository and name it dashboard.png)*
 
