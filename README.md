@@ -1,22 +1,22 @@
 # AICTE-Project
 
-# Samsung Supply Chain Dashboard 📊
+# Samsung Supply Chain Dashboard
 
 A Power BI dashboard developed to analyze and visualize Samsung's supply chain and logistics performance.  
-The dashboard provides insights into revenue, profit, inventory, shipment performance, and supplier contribution.
+The dashboard provides insights into revenue, profit, inventory, shipment performance and supplier contribution.
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
-Supply chain management involves multiple entities such as suppliers, manufacturers, shipments, and customers.  
+Supply chain management involves multiple entities such as suppliers, manufacturers, shipments and customers.  
 Analyzing this data manually can be difficult and time-consuming.  
 
 This project uses **Microsoft Power BI** to transform raw supply chain data into meaningful visual insights that help understand operational performance and support better business decisions.
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 - Analyze Samsung's supply chain performance
 - Monitor revenue and profit trends
@@ -26,7 +26,7 @@ This project uses **Microsoft Power BI** to transform raw supply chain data into
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - **Microsoft Power BI Desktop**
 - **Power Query**
@@ -48,7 +48,7 @@ This project uses **Microsoft Power BI** to transform raw supply chain data into
 
 ---
 
-# 📈 Dashboard Features
+#  Dashboard Features
 
 - KPI Cards for business performance indicators
 - Supplier order quantity analysis
@@ -58,7 +58,7 @@ This project uses **Microsoft Power BI** to transform raw supply chain data into
 
 ---
 
-# 🖼 Dashboard Preview
+#  Dashboard Preview
 
 ![Dashboard Screenshot](Screenshot 2026-03-10 092731.png)
 
@@ -66,7 +66,7 @@ This project uses **Microsoft Power BI** to transform raw supply chain data into
 
 ---
 
-# 📊 Key Insights
+#  Key Insights
 
 - Smartphones have the highest shipment volume among all product categories.
 - Samsung supplier contributes the highest order quantity.
@@ -75,7 +75,7 @@ This project uses **Microsoft Power BI** to transform raw supply chain data into
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - Integration with real-time supply chain data
 - Predictive analytics for demand forecasting
@@ -84,7 +84,7 @@ This project uses **Microsoft Power BI** to transform raw supply chain data into
 
 ---
 
-# 📚 References
+#  References
 
 - Microsoft Power BI Documentation  
 https://learn.microsoft.com/power-bi
@@ -93,7 +93,7 @@ https://learn.microsoft.com/power-bi
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Parth Vinodkumar Lad**
 
