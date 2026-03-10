@@ -35,7 +35,7 @@ This project uses **Microsoft Power BI** to transform raw supply chain data into
 
 ---
 
-# 📊 Key Dashboard Metrics
+#  Key Dashboard Metrics
 
 - **Total Revenue:** 176.95M
 - **Total Profit:** 48.56M
